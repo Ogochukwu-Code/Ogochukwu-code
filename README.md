@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ogochukwu
 
-<!--
-**Ogochukwu-Code/Ogochukwu-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a self-driven developer and digital creator who enjoys turning ideas into real, useful projects.
 
-Here are some ideas to get you started:
+## 💼 What I Do
+- 💻 Frontend Web Development
+- 🛠️ Open Source Contributions
+- ✍️ Blogging about health, herbs, and tech
+- 🌱 Always learning something new
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects I'm Working On
+- 🌐 Personal blog setup with GitHub Pages
+- 🩺 Herbal and health-based digital content
+- 🔧 Mini web apps and HTML templates
+
+## 📫 Let's Connect
+- Email: [favour4speed@gmail.com](mailto:favour4speed@gmail.com)
+- Blog: [HealthExotic](https://healthexotic.blogspot.com)
+- GitHub: [ogochukwu-code](https://github.com/ogochukwu-code)
+
+> _“Code is not just a skill—it's a superpower.”_
+
+---
+
+Thanks for stopping by! Feel free to explore my repos and connect 🤝
